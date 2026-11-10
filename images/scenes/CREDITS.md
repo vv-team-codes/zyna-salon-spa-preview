@@ -26,6 +26,8 @@ massage table) was removed at the owner's request — from the hero layout,
 from the Premium Spa scene (now a plain light layout until a replacement
 is chosen) and from the shipped files entirely.
 
+| photo-spa-interior.jpg (+ `m/` variant) | B2B homepage (v8) — "For Spas" section: a calm spa still life — lit tea-light candles in a stone holder, folded white towels, plumeria flowers and smooth spa stones on a dark wooden surface; **no people** (visually verified before use, 2026-11-10; an interior candidate with a treatment in progress, Pexels photo 6187848, was rejected for the same reason as 3768926) | https://www.pexels.com/photo/1926811/ |
+
 Responsive derivatives (v10): every journey photograph also ships a
 1080w variant in `m/` (same source, resized — served to viewports up
 to 768px), and the form scene's backdrop is `photo-dubai-skyline-blur.jpg`
